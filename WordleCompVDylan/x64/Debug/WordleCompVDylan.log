@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\tle\Desktop\Personal\PersonalCoding\WordleCompvDylan\WordleCompVDylan\main.cpp(335,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tle\Desktop\Personal\PersonalCoding\WordleCompvDylan\WordleCompVDylan\main.cpp(433,14): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+C:\Users\tle\Desktop\Personal\PersonalCoding\WordleCompvDylan\WordleCompVDylan\main.cpp(434,14): warning C4244: 'initializing': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=double
+          ]
+  WordleCompVDylan.vcxproj -> C:\Users\tle\Desktop\Personal\PersonalCoding\WordleCompvDylan\WordleCompVDylan\x64\Debug\WordleCompVDylan.exe
